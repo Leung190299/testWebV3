@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Strategic Planner",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": false,
+    "isHot": false
+  },
+  {
+    "id": 2,
+    "jobTitle": "Senior Product Designer",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": true,
+    "isHot": false
+  },
+  {
+    "id": 3,
+    "jobTitle": "Data Engineer",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": false,
+    "isHot": true
+  },
+  {
+    "id": 4,
+    "jobTitle": "UXUI Designer",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": true,
+    "isHot": false
+  },
+  {
+    "id": 5,
+    "jobTitle": "Staff Product Designer",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": true,
+    "isHot": false
+  },
+  {
+    "id": 6,
+    "jobTitle": "E-Commerce Marketing Executive",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": false,
+    "isHot": false,
+    "status": "Opening"
+  },
+  {
+    "id": 7,
+    "jobTitle": "Backend Dev",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": true,
+    "isHot": false
+  },
+  {
+    "id": 8,
+    "jobTitle": "Data Analyst",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": false,
+    "isHot": false
+  },
+  {
+    "id": 9,
+    "jobTitle": "SEO Content Writer",
+    "jobDes": "Tiếp nhận yêu cầu từ Khách hàng/ Đội ngũ kinh doanh để xây dựng chiến lược/kế hoạch truyền thông/đề xuất quảng cáo trên nền tảng quảng cáo. Xây dựng mối quan hệ độc lập và hợp tác với PIC ...",
+    "salary": "Thỏa thuận",
+    "jobType": "Full-time",
+    "location": "Hà Nội",
+    "isNew": false,
+    "isHot": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  { "id": 1, "name": "Điện thoại, thiết bị", "parent_id": null },
+  { "id": 2, "name": "Điện thoại", "parent_id": 1 },
+  { "id": 3, "name": "Máy tính bảng", "parent_id": 1 },
+  { "id": 4, "name": "Laptop", "parent_id": 1 },
+  { "id": 5, "name": "Phụ kiện", "parent_id": 1 },
+  { "id": 6, "name": "Gia dụng thông minh", "parent_id": 1 },
+  { "id": 7, "name": "Đồ chơi công nghệ", "parent_id": 1 },
+
+  { "id": 8, "name": "Mẹ và bé", "parent_id": null },
+  { "id": 9, "name": "Sữa bột cao cấp", "parent_id": 8 },
+  { "id": 10, "name": "Bỉm tã khuyến mại", "parent_id": 8 },
+  { "id": 11, "name": "Sữa tươi các loại", "parent_id": 8 },
+  { "id": 12, "name": "Dinh dưỡng & ăn dặm", "parent_id": 8 },
+  { "id": 13, "name": "Sức khỏe & Vitamin", "parent_id": 8 },
+  { "id": 14, "name": "Vệ sinh gia đình", "parent_id": 8 },
+  { "id": 15, "name": "Đò dùng mẹ và bé", "parent_id": 8 },
+  { "id": 16, "name": "Thời trang & phụ kiện", "parent_id": 8 },
+  { "id": 17, "name": "Đồ chơi học tập", "parent_id": 8 }
+]

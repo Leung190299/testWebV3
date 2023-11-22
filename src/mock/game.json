@@ -1,0 +1,150 @@
+[
+  {
+    "id": "1",
+    "name": "Assassin's Creed® Mirage",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199908/IGame_image/ImageGame/Block_Image_3_u60fof.png",
+    "isHotWeek": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App", "Website"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "2",
+    "name": "Honkai: Star Rail",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199909/IGame_image/ImageGame/Block_Image_4_lqjexg.png",
+    "isHotWeek": true,
+    "isHot": true,
+    "isPlaying": true,
+    "categories": ["Thể thao", "Trí tuệ"],
+    "playingPlatforms": ["App", "Website"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "3",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199910/IGame_image/ImageGame/Block_Image_5_gcsken.png",
+    "isHotWeek": true,
+    "isPlaying": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "4",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199910/IGame_image/ImageGame/Block_Image_6_crcl2w.png",
+    "isHotWeek": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "isHot": true,
+    "playingPlatforms": ["App", "Website"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "5",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199910/IGame_image/ImageGame/Block_Image_6_crcl2w.png",
+    "isHotWeek": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "6",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199910/IGame_image/ImageGame/Block_Image_5_gcsken.png",
+    "isHotWeek": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "isHot": true,
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "7",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199909/IGame_image/ImageGame/Block_Image_4_lqjexg.png",
+    "isHotWeek": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "isHot": true,
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "8",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199908/IGame_image/ImageGame/Block_Image_3_u60fof.png",
+    "isHotWeek": true,
+    "isHot": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "9",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685162019/IGame_image/ImageGame/Block_Image_2_wexkbp.png",
+    "isHotWeek": true,
+    "isPlaying": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "10",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685162019/IGame_image/ImageGame/Block_Image_2_wexkbp.png",
+    "isHotWeek": true,
+    "isPlaying": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "11",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199910/IGame_image/ImageGame/Block_Image_5_gcsken.png",
+    "isHotWeek": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "12",
+    "name": "Disney Speedstorm -- Standard Founder's Pack",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685199910/IGame_image/ImageGame/Block_Image_6_crcl2w.png",
+    "isHotWeek": true,
+    "isPlaying": true,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "13",
+    "name": "Game Fortnite",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685118778/IGame_image/Block_Image_twazhg.png",
+    "isHotWeek": true,
+    "isPlaying": false,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App", "Website"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "14",
+    "name": "Game Dota 2",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685118778/IGame_image/Block_Image_twazhg.png",
+    "isHotWeek": true,
+    "isPlaying": false,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App"],
+    "numberOfPlayer": 23045
+  },
+  {
+    "id": "15",
+    "name": "Game PUBG",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1685180735/IGame_image/Block_Image_hhc648.png",
+    "isHotWeek": true,
+    "isPlaying": false,
+    "categories": ["Hành động", "Trí tuệ", "Nổi bật"],
+    "playingPlatforms": ["App", "Website"],
+    "numberOfPlayer": 23045
+  }
+]

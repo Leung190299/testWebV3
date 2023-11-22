@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "name": "Màn hình",
+    "value": "AMOLED, 6.7 Full HD+"
+  },
+  {
+    "id": 2,
+    "product_id": 1,
+    "name": "Hệ điều hành",
+    "value": "Android 13"
+  },
+  {
+    "id": 3,
+    "product_id": 1,
+    "name": "Camera sau",
+    "value": "Chính 108 MP & Phụ 2 MP, 2 MP"
+  },
+  {
+    "id": 4,
+    "product_id": 1,
+    "name": "Camera trước",
+    "value": "32 MP"
+  },
+  {
+    "id": 5,
+    "product_id": 1,
+    "name": "Chip",
+    "value": "Snapdragon 695 5G"
+  },
+  {
+    "id": 6,
+    "product_id": 1,
+    "name": "RAM",
+    "value": "8 GB"
+  },
+  {
+    "id": 7,
+    "product_id": 1,
+    "name": "Dung lượng lưu trữ",
+    "value": "256 GB"
+  },
+  {
+    "id": 8,
+    "product_id": 1,
+    "name": "SIM",
+    "value": "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+  },
+  {
+    "id": 9,
+    "product_id": 1,
+    "name": "Pin, Sạc",
+    "value": "4800 mAh, 67 W"
+  },
+  {
+    "id": 10,
+    "product_id": 2,
+    "name": "Màn hình",
+    "value": "AMOLED, 6.7 Full HD+"
+  },
+  {
+    "id": 11,
+    "product_id": 2,
+    "name": "Hệ điều hành",
+    "value": "Android 13"
+  },
+  {
+    "id": 12,
+    "product_id": 2,
+    "name": "Camera sau",
+    "value": "Chính 108 MP & Phụ 2 MP, 2 MP"
+  },
+  {
+    "id": 13,
+    "product_id": 2,
+    "name": "Camera trước",
+    "value": "32 MP"
+  },
+  {
+    "id": 14,
+    "product_id": 2,
+    "name": "Chip",
+    "value": "Snapdragon 695 5G"
+  },
+  {
+    "id": 15,
+    "product_id": 2,
+    "name": "RAM",
+    "value": "8 GB"
+  },
+  {
+    "id": 16,
+    "product_id": 2,
+    "name": "Dung lượng lưu trữ",
+    "value": "256 GB"
+  },
+  {
+    "id": 17,
+    "product_id": 2,
+    "name": "SIM",
+    "value": "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+  },
+  {
+    "id": 18,
+    "product_id": 2,
+    "name": "Pin, Sạc",
+    "value": "4800 mAh, 67 W"
+  },
+  {
+    "id": 19,
+    "product_id": 3,
+    "name": "Màn hình",
+    "value": "AMOLED, 6.7 Full HD+"
+  },
+  {
+    "id": 20,
+    "product_id": 3,
+    "name": "Hệ điều hành",
+    "value": "Android 13"
+  },
+  {
+    "id": 21,
+    "product_id": 3,
+    "name": "Camera sau",
+    "value": "Chính 108 MP & Phụ 2 MP, 2 MP"
+  },
+  {
+    "id": 22,
+    "product_id": 3,
+    "name": "Camera trước",
+    "value": "32 MP"
+  },
+  {
+    "id": 23,
+    "product_id": 3,
+    "name": "Chip",
+    "value": "Snapdragon 695 5G"
+  },
+  {
+    "id": 24,
+    "product_id": 3,
+    "name": "RAM",
+    "value": "8 GB"
+  },
+  {
+    "id": 25,
+    "product_id": 3,
+    "name": "Dung lượng lưu trữ",
+    "value": "256 GB"
+  },
+  {
+    "id": 26,
+    "product_id": 3,
+    "name": "SIM",
+    "value": "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+  },
+  {
+    "id": 27,
+    "product_id": 3,
+    "name": "Pin, Sạc",
+    "value": "4800 mAh, 67 W"
+  },
+  {
+    "id": 28,
+    "product_id": 4,
+    "name": "Màn hình",
+    "value": "AMOLED, 6.7 Full HD+"
+  },
+  {
+    "id": 29,
+    "product_id": 4,
+    "name": "Hệ điều hành",
+    "value": "Android 13"
+  },
+  {
+    "id": 30,
+    "product_id": 4,
+    "name": "Camera sau",
+    "value": "Chính 108 MP & Phụ 2 MP, 2 MP"
+  },
+  {
+    "id": 31,
+    "product_id": 4,
+    "name": "Camera trước",
+    "value": "32 MP"
+  },
+  {
+    "id": 32,
+    "product_id": 4,
+    "name": "Chip",
+    "value": "Snapdragon 695 5G"
+  },
+  {
+    "id": 33,
+    "product_id": 4,
+    "name": "RAM",
+    "value": "8 GB"
+  },
+  {
+    "id": 34,
+    "product_id": 4,
+    "name": "Dung lượng lưu trữ",
+    "value": "256 GB"
+  },
+  {
+    "id": 35,
+    "product_id": 4,
+    "name": "SIM",
+    "value": "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+  },
+  {
+    "id": 36,
+    "product_id": 4,
+    "name": "Pin, Sạc",
+    "value": "4800 mAh, 67 W"
+  },
+  {
+    "id": 37,
+    "product_id": 5,
+    "name": "Màn hình",
+    "value": "AMOLED, 6.7 Full HD+"
+  },
+  {
+    "id": 38,
+    "product_id": 5,
+    "name": "Hệ điều hành",
+    "value": "Android 13"
+  },
+  {
+    "id": 39,
+    "product_id": 5,
+    "name": "Camera sau",
+    "value": "Chính 108 MP & Phụ 2 MP, 2 MP"
+  },
+  {
+    "id": 40,
+    "product_id": 5,
+    "name": "Camera trước",
+    "value": "32 MP"
+  },
+  {
+    "id": 41,
+    "product_id": 5,
+    "name": "Chip",
+    "value": "Snapdragon 695 5G"
+  },
+  {
+    "id": 42,
+    "product_id": 5,
+    "name": "RAM",
+    "value": "8 GB"
+  },
+  {
+    "id": 43,
+    "product_id": 5,
+    "name": "Dung lượng lưu trữ",
+    "value": "256 GB"
+  },
+  {
+    "id": 44,
+    "product_id": 5,
+    "name": "SIM",
+    "value": "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+  },
+  {
+    "id": 45,
+    "product_id": 5,
+    "name": "Pin, Sạc",
+    "value": "4800 mAh, 67 W"
+  },
+  {
+    "id": 46,
+    "product_id": 6,
+    "name": "Màn hình",
+    "value": "AMOLED, 6.7 Full HD+"
+  },
+  {
+    "id": 47,
+    "product_id": 6,
+    "name": "Hệ điều hành",
+    "value": "Android 13"
+  },
+  {
+    "id": 48,
+    "product_id": 6,
+    "name": "Camera sau",
+    "value": "Chính 108 MP & Phụ 2 MP, 2 MP"
+  },
+  {
+    "id": 49,
+    "product_id": 6,
+    "name": "Camera trước",
+    "value": "32 MP"
+  },
+  {
+    "id": 50,
+    "product_id": 6,
+    "name": "Chip",
+    "value": "Snapdragon 695 5G"
+  },
+  {
+    "id": 51,
+    "product_id": 6,
+    "name": "RAM",
+    "value": "8 GB"
+  },
+  {
+    "id": 52,
+    "product_id": 6,
+    "name": "Dung lượng lưu trữ",
+    "value": "256 GB"
+  },
+  {
+    "id": 53,
+    "product_id": 6,
+    "name": "SIM",
+    "value": "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+  },
+  {
+    "id": 54,
+    "product_id": 6,
+    "name": "Pin, Sạc",
+    "value": "4800 mAh, 67 W"
+  },
+  {
+    "id": 55,
+    "product_id": 7,
+    "name": "Màn hình",
+    "value": "AMOLED, 6.7 Full HD+"
+  },
+  {
+    "id": 56,
+    "product_id": 7,
+    "name": "Hệ điều hành",
+    "value": "Android 13"
+  },
+  {
+    "id": 57,
+    "product_id": 7,
+    "name": "Camera sau",
+    "value": "Chính 108 MP & Phụ 2 MP, 2 MP"
+  },
+  {
+    "id": 58,
+    "product_id": 7,
+    "name": "Camera trước",
+    "value": "32 MP"
+  },
+  {
+    "id": 59,
+    "product_id": 7,
+    "name": "Chip",
+    "value": "Snapdragon 695 5G"
+  },
+  {
+    "id": 60,
+    "product_id": 7,
+    "name": "RAM",
+    "value": "8 GB"
+  },
+  {
+    "id": 61,
+    "product_id": 7,
+    "name": "Dung lượng lưu trữ",
+    "value": "256 GB"
+  },
+  {
+    "id": 62,
+    "product_id": 7,
+    "name": "SIM",
+    "value": "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+  },
+  {
+    "id": 63,
+    "product_id": 7,
+    "name": "Pin, Sạc",
+    "value": "4800 mAh, 67 W"
+  },
+  {
+    "id": 64,
+    "product_id": 8,
+    "name": "Màn hình",
+    "value": "AMOLED, 6.7 Full HD+"
+  },
+  {
+    "id": 65,
+    "product_id": 8,
+    "name": "Hệ điều hành",
+    "value": "Android 13"
+  },
+  {
+    "id": 66,
+    "product_id": 8,
+    "name": "Camera sau",
+    "value": "Chính 108 MP & Phụ 2 MP, 2 MP"
+  },
+  {
+    "id": 67,
+    "product_id": 8,
+    "name": "Camera trước",
+    "value": "32 MP"
+  },
+  {
+    "id": 68,
+    "product_id": 8,
+    "name": "Chip",
+    "value": "Snapdragon 695 5G"
+  },
+  {
+    "id": 69,
+    "product_id": 8,
+    "name": "RAM",
+    "value": "8 GB"
+  },
+  {
+    "id": 70,
+    "product_id": 8,
+    "name": "Dung lượng lưu trữ",
+    "value": "256 GB"
+  },
+  {
+    "id": 71,
+    "product_id": 8,
+    "name": "SIM",
+    "value": "2 Nano SIM (SIM 2 chung khe thẻ nhớ), Hỗ trợ 5G"
+  },
+  {
+    "id": 72,
+    "product_id": 8,
+    "name": "Pin, Sạc",
+    "value": "4800 mAh, 67 W"
+  }
+]

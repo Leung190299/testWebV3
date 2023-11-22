@@ -1,0 +1,52 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+}
+
+.messages {
+  flex: 1;
+  padding: 1rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+}
+
+.message {
+  margin-bottom: 0.5rem;
+}
+
+.content {
+  overflow-wrap: break-word;
+  padding: 0.5rem 1rem;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  gap: 0.5rem;
+}
+
+.input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+}
+
+.expanded {
+  flex-grow: 5;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}

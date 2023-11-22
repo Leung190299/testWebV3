@@ -1,0 +1,53 @@
+.tooltip[data-popper-placement^='bottom'] .tooltip_arrow {
+  top: -8px;
+  border-color: transparent transparent white transparent;
+}
+.tooltip[data-popper-placement^='top'] .tooltip_arrow {
+  bottom: -8px;
+  border-color: transparent transparent white transparent;
+}
+.tooltip[data-popper-placement^='left'] .tooltip_arrow {
+  right: -8px;
+  border-color: transparent transparent white transparent;
+}
+.tooltip[data-popper-placement^='right'] .tooltip_arrow {
+  left: -8px;
+  border-color: transparent transparent white transparent;
+}
+
+.tooltip[data-popper-placement^='bottom'] .tooltip_arrow_dark {
+  top: -8px;
+  border-color: transparent transparent #333333 transparent;
+}
+.tooltip[data-popper-placement^='top'] .tooltip_arrow_dark {
+  bottom: -8px;
+  border-color: transparent transparent #333333 transparent;
+}
+.tooltip[data-popper-placement^='left'] .tooltip_arrow_dark {
+  right: -8px;
+  border-color: transparent transparent #333333 transparent;
+}
+.tooltip[data-popper-placement^='right'] .tooltip_arrow_dark {
+  left: -8px;
+  border-color: transparent transparent #333333 transparent;
+}
+
+.tooltip {
+  @apply bg-transparent max-w-sm touch-none pointer-events-none;
+  z-index: 999;
+}
+.tooltip_content {
+  @apply shadow-itel p-4 bg-neutral-0 rounded-xl;
+}
+.tooltip_content_dark {
+  @apply shadow-itel p-4 bg-neutral-600 rounded-xl;
+}
+.tooltip_text {
+  @apply bg-neutral-0;
+}
+.tooltip_arrow {
+  @apply text-neutral-0;
+}
+.tooltip_arrow_dark {
+  @apply text-neutral-600;
+}

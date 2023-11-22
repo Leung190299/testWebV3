@@ -1,0 +1,831 @@
+[
+  {
+    "id": 1,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505814/itel-web/fc8c5e564102ce37cbb0496bfe60b85b_idvtoj.png",
+    "name": "Điên thì có sao",
+    "nation": "Hàn Quốc",
+    "time": 150,
+    "category": "Tâm lý",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 50,
+    "newChapter": true
+  },
+  {
+    "id": 2,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+    "name": "Tenet",
+    "nation": "Hàn Quốc",
+    "time": 150,
+    "category": "Lãng mạn",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 80,
+    "chap": "24",
+    "newChapter": true,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505812/itel-web/936ceea0e702736e004c7e3980cb8279_vb11cw.png",
+    "name": "Loki",
+    "nation": "Hàn Quốc",
+    "time": 180,
+    "category": "Hành động",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 40,
+    "newChapter": true
+  },
+  {
+    "id": 4,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505810/itel-web/7ed77d2341f1c981f07c54d832178f7e_kd22dj.png",
+    "name": "Jawan",
+    "nation": "Hàn Quốc",
+    "time": 120,
+    "category": "Hành động",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 30,
+    "newChapter": true
+  },
+  {
+    "id": 5,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505809/itel-web/875ca4cf514ad09efe5b6ffba8423646_hioli1.png",
+    "name": "The glory",
+    "nation": "Hàn Quốc",
+    "time": 140,
+    "category": "Hành động",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 0,
+    "newChapter": true
+  },
+  {
+    "id": 6,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505809/itel-web/c1721718f3802177b01fc3585f17da8a_ecawqq.png",
+    "name": "Ant man",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Tâm lý",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 60,
+    "chap": "24",
+    "newChapter": true
+  },
+  {
+    "id": 7,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505809/itel-web/d3c255854765af2ce1c6fbb3bf15beea_ahfinw.png",
+    "name": "Avatar",
+    "nation": "Trung Quốc",
+    "time": 170,
+    "category": "Tình cảm",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 0,
+    "newChapter": true
+  },
+  {
+    "id": 8,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/e6e719254d7bee1f22c088b60b630fbe_acrtya.png",
+    "name": "Dune",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Kinh dị",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 10,
+    "chap": "24",
+    "newChapter": true
+  },
+  {
+    "id": 9,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+    "name": "Flood",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Hài hước",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 0,
+    "chap": "24",
+    "newChapter": false,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/00e7d825c07e0688dd554a182aac657d_qvn0ip.png",
+    "name": "Everything everywhere all at once",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Hài hước",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 0,
+    "chap": "24",
+    "newChapter": false,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/00e7d825c07e0688dd554a182aac657d_qvn0ip.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/00e7d825c07e0688dd554a182aac657d_qvn0ip.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/00e7d825c07e0688dd554a182aac657d_qvn0ip.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/00e7d825c07e0688dd554a182aac657d_qvn0ip.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/00e7d825c07e0688dd554a182aac657d_qvn0ip.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/00e7d825c07e0688dd554a182aac657d_qvn0ip.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/00e7d825c07e0688dd554a182aac657d_qvn0ip.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/66b8aff0ed6219cacc8f08157f5ae5a6_rr5yfc.png",
+    "name": "Unlocked",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Hài hước",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 0,
+    "chap": "24",
+    "newChapter": false
+  },
+  {
+    "id": 12,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505807/itel-web/62ff8bbd03117b05cd26ee00358e9321_nr4avk.png",
+    "name": "Mia Goth Dear",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Kinh dị",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false
+  },
+  {
+    "id": 13,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/9f86ea65735eec009c2a81cd097701bb_hcquec.png",
+    "name": "Mattrix",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Kinh dị",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false
+  },
+  {
+    "id": 14,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/3236f85abb4338cbda6c222e7ea56540_vxkeip.png",
+    "name": "Litter Mermaid",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Kinh dị",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 0,
+    "chap": "24",
+    "newChapter": false
+  },
+  {
+    "id": 15,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685521676/itel-web/Block_Image_usuqno.png",
+    "name": "Người đẹp Gangnam",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Tình cảm",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false
+  },
+  {
+    "id": 16,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+    "name": "Sword art online",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Hành động",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+    "name": "Mùa hè yêu dấu của chúng ta",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Kinh dị",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "6",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "7",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+    "name": "Sword art online",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Tình cảm",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "6",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "7",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+    "name": "Sword art online",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Tình cảm",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "6",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },{
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/5ef6f702fcc418f93c34367d0d769aae_mys1yf.png",
+        "chap": "7",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+    "name": "Mùa hè yêu dấu của chúng ta",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Tâm lý",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "6",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685502837/itel-web/61e05e0abd264bc33ad3a1074f9e748b_qmq33d.png",
+        "chap": "7",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+    "name": "Flood",
+    "nation": "Trung Quốc",
+    "time": 150,
+    "category": "Hài hước",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 0,
+    "chap": "24",
+    "newChapter": false,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "6",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505808/itel-web/d3301509e9e71a74efbbcfe067cfd6df_okwkou.png",
+        "chap": "7",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+    "name": "Tenet",
+    "nation": "Hàn Quốc",
+    "time": 150,
+    "category": "Hành động",
+    "year": "2022",
+    "isSeriesMovie": true,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": true,
+    "child": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "1",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "2",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "3",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "4",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "5",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "6",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      },
+      {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505813/itel-web/48e69717f47d4f9a7180ebb753ec055b_cwe1t6.png",
+        "chap": "7",
+        "length": 72,
+        "description": "Vương hậu đã bị giết hại: Với Ae Sin, lời nói không hề có tác dụng trước sức mạnh tàn bạo của ngoại bang, thay vào đó nàng chọn vũ khí. Eugene nhận vị trí đóng quân mới."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685521676/itel-web/Block_Image_usuqno.png",
+    "name": "Người đẹp Gangnam",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Tình cảm",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false
+  },
+  {
+    "id": 24,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685521676/itel-web/Block_Image_usuqno.png",
+    "name": "Người đẹp Gangnam",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Tình cảm",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 50,
+    "chap": "24",
+    "newChapter": false
+  },
+  {
+    "id": 25,
+    "img": "https://res.cloudinary.com/dgkrchato/image/upload/v1685505806/itel-web/3236f85abb4338cbda6c222e7ea56540_vxkeip.png",
+    "name": "Litter Mermaid",
+    "nation": "Mỹ",
+    "time": 150,
+    "category": "Kinh dị",
+    "year": "2022",
+    "isSeriesMovie": false,
+    "viewTime": 0,
+    "chap": "24",
+    "newChapter": false
+  }
+]

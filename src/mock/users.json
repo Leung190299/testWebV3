@@ -1,0 +1,64 @@
+{
+  "email": "email@email.com",
+  "id": 1,
+  "name": "Lâu la bờ đa",
+  "role": "admin",
+  "phone": "0987654321",
+  "is_verified": true,
+  "address": [
+    {
+      "user_id": 1,
+      "id": 1,
+      "name": "Tên đầy đủ",
+      "phone": "0987654321",
+      "province": {
+        "_id": "60eaaa6f1173335842c3562b",
+        "code": "01",
+        "isDeleted": false,
+        "name": "Hà Nội",
+        "name_with_type": "Thành phố Hà Nội",
+        "slug": "ha-noi",
+        "type": "thanh-pho"
+      },
+      "district": {
+        "_id": "60eaaa6f1173335842c35384",
+        "code": "279",
+        "isDeleted": false,
+        "name": "Thường Tín",
+        "name_with_type": "Huyện Thường Tín",
+        "parent_code": "01",
+        "path": "Thường Tín, Hà Nội",
+        "path_with_type": "Huyện Thường Tín, Thành phố Hà Nội",
+        "slug": "thuong-tin",
+        "type": "huyen"
+      },
+      "ward": {
+        "_id": "60eaaa6e1173335842c345a2",
+        "code": "10186",
+        "isDeleted": false,
+        "name": "Ninh Sở",
+        "name_with_type": "Xã Ninh Sở",
+        "parent_code": "279",
+        "path": "Ninh Sở, Thường Tín, Hà Nội",
+        "path_with_type": "Xã Ninh Sở, Huyện Thường Tín, Thành phố Hà Nội",
+        "slug": "ninh-so",
+        "type": "xa"
+      },
+      "village": {
+        "_id": "123123",
+        "code": "SH",
+        "isDeleted": false,
+        "name": "Sở Hạ",
+        "name_with_type": "Thôn Sở Hạ",
+        "slug": "thon_bang_so",
+        "type": ""
+      },
+      "address": "Tòa CT2 Ngô Thì Nhậm, Phường Hà Cầu, Quận Hà Đông, Hà Nội",
+      "is_default": true,
+      "created_at": 1687759393,
+      "updated_at": 1687759393
+    }
+  ],
+  "default_address_id": 1,
+  "balance": 10000000
+}

@@ -1,0 +1,13 @@
+.content {
+  h2 {
+    @apply text-2xl md:text-lg md:mb-4;
+  }
+  h3,
+  h2 {
+    @apply mt-6;
+  }
+
+  p {
+    @apply text-neutral-500 mt-2;
+  }
+}

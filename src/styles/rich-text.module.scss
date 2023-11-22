@@ -1,0 +1,49 @@
+.rich {
+  @apply text-subtle-content;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-neutral-800;
+  }
+  h2 {
+    @apply text-lg md:text-s-sm;
+    line-height: 1.833;
+  }
+  h3 {
+    @apply py-2 text-lg;
+  }
+
+  p {
+    @apply mb-6 text-justify text-base;
+  }
+}
+
+.voucher {
+  > div {
+    line-height: 1rem;
+  }
+
+  @apply text-sm md:text-base;
+  b {
+    @apply max-md:font-normal;
+  }
+  h4 {
+    @apply font-bold text-lg md:text-lg;
+  }
+  ul {
+    @apply list-disc pl-6;
+    li::marker {
+      font-size: 50%;
+      vertical-align: top;
+    }
+  }
+}
+
+.hide {
+  @apply overflow-hidden;
+  max-height: 500px;
+  mask-image: linear-gradient(180deg, black 0%, black, rgba(255, 255, 255, 0) 100%);
+}

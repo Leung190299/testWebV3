@@ -1,0 +1,74 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5236_60854)">
+<path d="M0 12C0 18.6275 5.37258 24.0001 12 24.0001C18.6274 24.0001 24 18.6275 24 12C24 5.37262 18.6274 -2.09808e-05 12 -2.09808e-05C5.37258 -2.09808e-05 0 5.37262 0 12Z" fill="#121212"/>
+<g filter="url(#filter0_d_5236_60854)">
+<rect x="9" y="15.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="11" y="15.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="7" y="13.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="5" y="11" width="2" height="2.00001" fill="white" stroke="#121212" stroke-width="0.5"/>
+<rect x="11" y="7.00003" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="7" y="9.00003" width="2" height="2.00001" fill="white" stroke="#121212" stroke-width="0.5"/>
+<rect x="11" y="9.00003" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="7" y="11" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="9" y="11" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="11" y="11" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="13" y="11" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="15" y="11" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="9" y="13.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="11" y="13.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="13" y="13.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="9" y="7.00003" width="2" height="2.00001" fill="white" stroke="#121212" stroke-width="0.5"/>
+<rect x="13" y="9.00003" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="9" y="9.00003" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="15" y="9.00003" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="13" y="7.00003" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="11" y="5.00002" width="2" height="2.00001" fill="white" stroke="#121212" stroke-width="0.5"/>
+<rect x="15" y="13.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="13" y="15.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="17" y="11" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+<rect x="11" y="17.0001" width="2" height="2.00001" fill="#999999" stroke="#121212" stroke-width="0.5"/>
+</g>
+<mask id="mask0_5236_60854" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<path d="M0 12C0 18.6275 5.37258 24.0001 12 24.0001C18.6274 24.0001 24 18.6275 24 12C24 5.37262 18.6274 -1.90735e-05 12 -1.90735e-05C5.37258 -1.90735e-05 0 5.37262 0 12Z" fill="black"/>
+</mask>
+<g mask="url(#mask0_5236_60854)">
+<rect x="1" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="3" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="5" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="7" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="9" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="11" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="13" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="15" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="17" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="19" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="21" y="-1.52588e-05" width="2" height="24.0001" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="0.999985" width="2.00001" height="24" transform="rotate(90 24 0.999985)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="3" width="2.00001" height="24" transform="rotate(90 24 3)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="5.00002" width="2.00001" height="24" transform="rotate(90 24 5.00002)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="7.00002" width="2.00001" height="24" transform="rotate(90 24 7.00002)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="9.00003" width="2.00001" height="24" transform="rotate(90 24 9.00003)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="11" width="2.00001" height="24" transform="rotate(90 24 11)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="13" width="2.00001" height="24" transform="rotate(90 24 13)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="15.0001" width="2.00001" height="24" transform="rotate(90 24 15.0001)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="17.0001" width="2.00001" height="24" transform="rotate(90 24 17.0001)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="19.0001" width="2.00001" height="24" transform="rotate(90 24 19.0001)" stroke="#121212" stroke-width="0.5"/>
+<rect x="24" y="21.0001" width="2.00001" height="24" transform="rotate(90 24 21.0001)" stroke="#121212" stroke-width="0.5"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_5236_60854" x="-5.25" y="-5.24998" width="34.5" height="34.5001" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.666667 0 0 0 0 0.666667 0 0 0 0 0.666667 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5236_60854"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5236_60854" result="shape"/>
+</filter>
+<clipPath id="clip0_5236_60854">
+<rect width="24" height="24.0001" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Thông báo gia hạn chương trình mua sim mới tài lộc phơi phới",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042265/IGame_image/News/Block_Image_5_qcae0a.png",
+    "categories": ["itel", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  },
+  {
+    "id": "2",
+    "name": "Thần may mắn theo vào iTel mua ngay vé số Vietlott",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042258/IGame_image/News/Block_Image_4_j4bh6u.png",
+    "categories": ["Thể thao", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  },
+  {
+    "id": "3",
+    "name": "Mạng di động iTel chơi lớn tặng SIM VÀNG KHỦNG chào mừng...",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042253/IGame_image/News/Block_Image_3_ddz8ax.png",
+    "categories": ["itel", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  },
+  {
+    "id": "4",
+    "name": "Thông báo gia hạn chương trình mua sim mới tài lộc phơi phới",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042244/IGame_image/News/Block_Image_2_pcqxlk.png",
+    "categories": ["itel", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  },
+  {
+    "id": "5",
+    "name": "Thần may mắn theo vào iTel mua ngay vé số Vietlott",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042235/IGame_image/News/Block_Image_1_jpvgnf.png",
+    "categories": ["itel", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  },
+  {
+    "id": "6",
+    "name": "Mạng di động iTel chơi lớn tặng SIM VÀNG KHỦNG chào mừng...",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042228/IGame_image/News/Block_Image_ml1wmz.png",
+    "categories": ["itel", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  },
+  {
+    "id": "7",
+    "name": "Thông báo gia hạn chương trình mua sim mới tài lộc phơi phới",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042265/IGame_image/News/Block_Image_5_qcae0a.png",
+    "categories": ["itel", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  },
+  {
+    "id": "8",
+    "name": "Thần may mắn theo vào iTel mua ngay vé số Vietlott",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042258/IGame_image/News/Block_Image_4_j4bh6u.png",
+    "categories": ["itel", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  },
+  {
+    "id": "9",
+    "name": "Mạng di động iTel chơi lớn tặng SIM VÀNG KHỦNG chào mừng...",
+    "image": "https://res.cloudinary.com/dm1ttdfnb/image/upload/v1686042253/IGame_image/News/Block_Image_3_ddz8ax.png",
+    "categories": ["itel", "active", "service"],
+    "des": "Lấy việc giúp đỡ người khác làm mục tiêu sống, đồng cảm với nỗi đau khổ, mất mát của người khác...",
+    "date": "09/03/2023"
+  }
+]

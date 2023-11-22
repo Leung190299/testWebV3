@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Disallow: /profile/
+Sitemap: https://v3.itel.vn/sitemap.xml

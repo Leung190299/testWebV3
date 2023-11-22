@@ -1,0 +1,105 @@
+.table {
+  @apply w-full;
+
+  thead,
+  tbody {
+    display: block;
+    position: relative;
+    @screen md {
+      display: table-row-group;
+    }
+  }
+
+  thead > tr,
+  tbody > tr {
+    border-radius: inherit;
+  }
+  thead > tr:first-child,
+  tbody > tr:first-child {
+    > th:first-child {
+      border-top-left-radius: inherit;
+    }
+    > th:last-child {
+      border-top-right-radius: inherit;
+    }
+  }
+  thead > tr:last-child,
+  tbody > tr:last-child:not(:first-child) {
+    > th:first-child,
+    > td:first-child {
+      border-bottom-left-radius: inherit;
+    }
+    > th:last-child,
+    > td:last-child {
+      border-bottom-right-radius: inherit;
+    }
+  }
+
+  td,
+  th {
+    // @apply bg-neutral-0 px-1 md:px-1.5 xl:px-2 py-4;
+    @apply bg-neutral-0 relative;
+    z-index: 1;
+    user-select: none;
+  }
+
+  .heading::before {
+    content: '';
+    display: block;
+    height: 0.5rem;
+    @screen md {
+      height: 1rem;
+    }
+  }
+  thead th,
+  .heading th {
+    @apply py-4;
+  }
+  .heading th {
+    @apply border-b border-neutral-200;
+  }
+
+  .row_parent {
+    td {
+      @apply py-4;
+    }
+    &.has_child {
+      td {
+        @apply md:pb-0;
+      }
+    }
+  }
+  .row_item {
+    td {
+      @apply py-3 md:py-4;
+    }
+    + .row_item td {
+      @apply pt-0;
+    }
+  }
+  .row_gift {
+    td {
+      @apply py-4;
+    }
+  }
+
+  .cell_first {
+    @apply w-4;
+  }
+  .cell_checkbox {
+    @apply pr-2 md:pr-3 xl:pr-4;
+    width: 1%;
+  }
+  .cell_image {
+    @apply pr-3 xl:pr-4;
+    width: 1%;
+  }
+
+  .cell_summary {
+    @apply xl:px-4;
+  }
+}
+
+.block_gift {
+  @apply h-14 w-14 text-center font-itel text-sm leading-[0.875rem] rounded-lg;
+}

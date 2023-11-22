@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Apple",
+    "devices": [
+      { "id": 1, "name": "iPhone XR (mẫu A2105, từ 2018) ", "type": "Các dòng máy iPhone" },
+      { "id": 2, "name": "iPhone XS (mẫu A2097, từ 2018)", "type": "Các dòng máy iPhone" },
+      { "id": 3, "name": "iPhone XS Max (mẫu A2101, từ2018)", "type": "Các dòng máy iPhone" },
+      { "id": 4, "name": "iPhone 11 (mẫu A2221, từ 2019)", "type": "Các dòng máy iPhone" },
+      { "id": 5, "name": "iPhone 11 Pro (mẫu A2215, từ 2019)", "type": "Các dòng máy iPhone" },
+      { "id": 6, "name": "iPhone 11 Pro Max - iPhone SE (mẫul 2020)", "type": "Các dòng máy iPhone" },
+      { "id": 7, "name": "iPhone 12/ 12mini/ 12 Pro/ 12 Pro Max", "type": "Các dòng máy iPhone" },
+      { "id": 8, "name": "iPhone 13/ 13 mini/ 13 Pro/ 13 Pro Max ", "type": "Các dòng máy iPhone" },
+      { "id": 9, "name": "iPhone SE (2022)- iPhone 14/ 14 Plus/ 14 Pro/ 14 Pro Max", "type": "Các dòng máy iPhone" },
+      { "id": 31, "name": "iPhone 15/ 15 Plus/ 15 Pro/ 15 Pro Max", "type": "Các dòng máy iPhone" },
+
+
+      { "id": 10, "name": "iPad Pro LTE (2018)", "type": "Các dòng máy iPad" },
+      { "id": 11, "name": "iPad Pro 11″ (mẫu A2068, từ 2020)/ iPad Pro 11 (2021, 2020)", "type": "Các dòng máy iPad" },
+      {
+        "id": 12,
+        "name": "iPad Pro 12.9″ (mẫu A2069, từ 2020)/ iPad Pro 12.9 (2021, 2020, 2017, 2015) / Apple iPad Pro 12.9 (2021, 2018) ",
+        "type": "Các dòng máy iPad"
+      },
+      { "id": 13, "name": "iPad Air (mẫu A2123, từ 2019)/ iPad Air (2022, 2020)", "type": "Các dòng máy iPad" },
+      { "id": 14, "name": "iPad (mẫu A2198, từ 2019)", "type": "Các dòng máy iPad" },
+      { "id": 15, "name": "iPad Mini (mẫu A2124, từ 2019)/ iPad mini (2021, 2019)/ iPad mini 3", "type": "Các dòng máy iPad" },
+      { "id": 16, "name": "iPad 10.2 (2021, 2020, 2019)", "type": "Các dòng máy iPad" },
+      { "id": 17, "name": "iPad 9.7 (2016)", "type": "Các dòng máy iPad" }
+    ]
+  },
+  {
+    "name": "Google",
+    "devices": [
+      { "id": 18, "name": "Google Pixel 7/ 7 Pro", "type": "" },
+      { "id": 19, "name": "Google Pixel 6/ 6a/ 6 Pro- Google Pixel 5/ 5a 5G", "type": "" },
+      { "id": 20, "name": "Google Pixel 4/ 4a/ 4a 5G/ 4 XL", "type": "" },
+      { "id": 21, "name": "Google Pixel 3/ 3a/ 3a XL/ 3 XL", "type": "" }
+    ]
+  },
+  {
+    "name": "Oppo",
+    "devices": [
+      { "id": 19, "name": "Oppo Reno 5 A/ 6 Pro 5G", "type": "" },
+      { "id": 20, "name": "Oppo Find X3/ X3 Pro/ X5/ X5 Pro", "type": "" }
+    ]
+  },
+  {
+    "name": "Samsung",
+    "devices": [
+      { "id": 21, "name": "Samsung Galaxy Fold", "type": "" },
+      { "id": 22, "name": "Samsung Galaxy Note 20 /Note 20 Ultra", "type": "" },
+      { "id": 23, "name": "Samsung Galaxy S20/ S20+ / S20 Ultra", "type": "" },
+      { "id": 24, "name": "Samsung Galaxy S21 5G / S21+ 5G/ S21 Ultra 5G", "type": "" },
+      { "id": 25, "name": "Samsung Galaxy S22 5G/ S22 Plus 5G/ S22 Ultra", "type": "" },
+      { "id": 26, "name": "Samsung Galaxy Z Flip/ Flip3 5G /Flip 4", "type": "" },
+      { "id": 27, "name": "Samsung Galaxy Z Fold 2/Fold3 5G/Fold 4", "type": "" },
+      { "id": 32, "name": "Samsung Galaxy S23 / S23 Plus / S23 Ultra", "type": "" },
+      { "id": 33, "name": "Samsung Galaxy Z Flip/ Flip3 5G /Flip 4/ Z Flip5", "type": "" },
+      { "id": 34, "name": "Samsung Galaxy Z Fold 2/ Fold3 5G/ Fold 4/ Fold 5", "type": "" }
+    ]
+  },
+  {
+    "name": "Khác",
+    "devices": [  { "id": 28, "name": "Huawei P40/ P40 4G/ P40 Pro", "type": "" },
+    { "id": 29, "name": "Huawei Mate 40 Pro", "type": "" },
+    { "id": 30, "name": "Sony Xperia 10 III Lite/ 5 IV/ 1 IV", "type": "" }
+   ]
+  }
+]

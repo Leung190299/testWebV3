@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "proseWrap": "always",
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "printWidth": 140,
+  "semi": true,
+  "pluginSearchDirs": false
+}

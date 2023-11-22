@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Oppo",
+    "media": {
+      "src": "https://res.cloudinary.com/dt1oay7cv/image/upload/v1683980782/itel/images/19d107ddb28426c26f5cfdde1658954a_ucsjwi.png",
+      "position": "center",
+      "type": "img",
+      "color": "#2D6A39"
+    }
+  },
+  {
+    "id": 2,
+    "name": "baerus",
+    "media": {
+      "src": "https://res.cloudinary.com/dt1oay7cv/image/upload/v1683980794/itel/images/ff96e32e8a5792e586491e7e191123ee_qbqryk.png",
+      "position": "center",
+      "type": "img",
+      "color": "#FDF250"
+    }
+  },
+  {
+    "id": 3,
+    "name": "concung",
+    "media": {
+      "src": "https://res.cloudinary.com/dt1oay7cv/image/upload/v1683980803/itel/images/51b63e305998d0b6436dceffc2c4ab6b_itict4.png",
+      "position": "center",
+      "type": "img",
+      "color": "#EA3B80"
+    }
+  },
+  {
+    "id": 4,
+    "name": "VIB",
+    "media": {
+      "src": "https://res.cloudinary.com/dt1oay7cv/image/upload/v1683980808/itel/images/d8b56fd3d490b29f89a8b18ad8556ba4_bi5gel.png",
+      "position": "center",
+      "type": "img",
+      "color": "#2A64B3"
+    }
+  },
+  {
+    "id": 5,
+    "name": "concung2",
+    "media": {
+      "src": "https://res.cloudinary.com/dt1oay7cv/image/upload/v1683980822/itel/images/1644fa39eb754f8c152ee7e618f64653_idkgww.png",
+      "position": "center",
+      "type": "img",
+      "color": "#FBE7F0"
+    }
+  },
+  {
+    "id": 6,
+    "name": "samsung",
+    "media": {
+      "src": "https://res.cloudinary.com/dt1oay7cv/image/upload/v1683980829/itel/images/d0c26e3d2920c7c408e2c006f0ca9d54_cgjvcg.png",
+      "position": "center",
+      "type": "img",
+      "color": "#1E4CA2"
+    }
+  }
+]
